@@ -6,10 +6,9 @@ Simple Badge diseñado con la herramienta EDA KiCad en uno de los talleres de la
 
 # ¿Donde puedo ver la sesión?
 
-La sesión se realizo por medio de un facebook live en la cuenta de LEDsDoElectronics, pero lo puedes encontrar en mi canal de YouTube.
-LINK  [Canal de youtube][YTB].
+La sesión se realizo por medio de un facebook live en la cuenta de LEDsDoElectronics, pero lo puedes encontrar en mi [Canal de youtube][YTB].
 
-[YTB]: https://github.com/FunPythonEC/FIT_Guatemala_2019-SMART_HOME
+[YTB]: https://youtu.be/NXX7O06I9Ms
 
 # Lista de materiales
 
