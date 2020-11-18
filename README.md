@@ -26,6 +26,6 @@ Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Lin
 
 [CERN_v1]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-1.2
 
-Software License: GPL v3
+Software License: None
 
 Documentation License: CC BY 4.0 International
