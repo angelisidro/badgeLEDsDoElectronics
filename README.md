@@ -1,5 +1,5 @@
 # Badge LED'sDoElectronics
-<div style="position: flex"><img src="Top.jpeg" width="425"/> <img src="Bottom.jpeg" width="425"/> </div>
+<img src="Top.jpeg" width="425"/>
 
 
 Simple Badge diseñado con la herramienta EDA KiCad en uno de los talleres de la iniciativa LED´sDoElectronicsGt, esta pequeña tarjeta contiene un circuito oscilador.
